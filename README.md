@@ -1,5 +1,5 @@
 # fuzzy-giggle
 Repository
 
-Hi..
+Hi
 I am Here
